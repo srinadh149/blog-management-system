@@ -1,30 +1,30 @@
-# Blog Management System 🚀
+ Blog Management System 🚀
 
 This project is developed as part of my Web Development Internship.
 
-## 📌 Project Description
+📌 Project Description
 A simple Blog Management System where users can add posts with title and content. This project demonstrates basic web development concepts.
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 - HTML
 - CSS
 
-## ✨ Features
+ ✨ Features
 - Add post form
 - Simple and clean user interface
 - Beginner-friendly project
 
-## 📂 Project Structure
+📂 Project Structure
 - index.html
 - style.css
 
-## 🎯 Purpose
+ 🎯 Purpose
 This project was created to understand the basics of web development and build a foundation for advanced concepts like CRUD operations using PHP and MySQL.
 
-## 📸 Output
+ 📸 Output
 The project displays a webpage where users can enter blog details through a form.
 
-## 🙌 Acknowledgment
+🙌 Acknowledgment
 Developed as part of my internship learning journey.
 
 ---
